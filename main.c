@@ -11,3 +11,10 @@ printf("hello");
 
 
 }
+int main()
+{
+
+printf("hello");
+
+
+}
